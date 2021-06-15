@@ -1,0 +1,7 @@
+﻿  Source.c
+G:\GitHub\Meniu\Project2\Source.c(35,6): warning C4101: 'au': unreferenced local variable
+G:\GitHub\Meniu\Project2\Source.c(34,8): warning C4101: 'aux': unreferenced local variable
+G:\GitHub\Meniu\Project2\Source.c(54,7): warning C4101: 'plac': unreferenced local variable
+G:\GitHub\Meniu\Project2\Source.c(53,7): warning C4101: 'proc': unreferenced local variable
+G:\GitHub\Meniu\Project2\Source.c(74,8): warning C4101: 'str': unreferenced local variable
+  Project2.vcxproj -> G:\GitHub\Meniu\Debug\Project2.exe

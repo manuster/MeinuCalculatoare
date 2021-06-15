@@ -1,0 +1,5 @@
+Procesor_Intel_Core_i7-10700KF GTX1060 2000
+Procesor_Intel_Core_i3 GTX1050TI 1800
+Procesor_AMD_Ryzen_3700 GTX2080 2200
+Procesor_AMD_Ryzen GTX970 900
+Procesor_Intel_i7-7700HQ GTX1060 1750
